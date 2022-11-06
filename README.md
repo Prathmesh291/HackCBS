@@ -20,7 +20,7 @@ Otherwise you can directly look at the hosted website at:
 TECHNOLOGY USED
 HTML, CSS, js, APIs, json
 
-TEAM MEMBER DETAILS(TEAM NAME:Hackgawds)
+TEAM MEMBER DETAILS(TEAM NAME:Hackgawds):
 Parth Shah, Nirma University Ahmedabad
 Prathmesh Borse, Nirma University
 Rohan Desai, Nirma University
