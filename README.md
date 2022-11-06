@@ -11,15 +11,16 @@ Buy medicines online through our integrated e-commerce platform
 Check the number of beds vacant/available in the hospitals
 STEPS FOR START
 
--Download all the files from the link: https://drive.google.com/drive/folders/1BRrroUGvskrbiEhRFEPQ98WISBsaju8f?usp=share_link -Create a virtual environment and activate it -Congratulations you are all set
+-Download all the files from the link: https://drive.google.com/drive/folders/1BRrroUGvskrbiEhRFEPQ98WISBsaju8f?usp=share_link or from the repo
+-Create a virtual environment and activate it 
+-Congratulations you are all set
 
 Otherwise you can directly look at the hosted website at:
 
 TECHNOLOGY USED
+HTML, CSS, js, APIs, json
 
-HTML -CSS -js -APIs -json
 TEAM MEMBER DETAILS(TEAM NAME:Hackgawds)
-
 Parth Shah, Nirma University Ahmedabad
 Prathmesh Borse, Nirma University
 Rohan Desai, Nirma University
