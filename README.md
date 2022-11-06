@@ -5,17 +5,17 @@ PROBLEM STATEMENT: During the time of medical emergency, people often tend to ge
 SOLUTION To deal with this problem we decided to create a one-stop health care marketplace where in a person who is ill or is in a need to consult a doctor or in a search of particular medicine, He/She can do that through our website.
 
 Features :
-
 Book doctor`s appointment
 Buy medicines online through our integrated e-commerce platform
 Check the number of beds vacant/available in the hospitals
-STEPS FOR START
 
+STEPS FOR START
 -Download all the files from the link: https://drive.google.com/drive/folders/1BRrroUGvskrbiEhRFEPQ98WISBsaju8f?usp=share_link or from the repo
 -Create a virtual environment and activate it 
 -Congratulations you are all set
 
 Otherwise you can directly look at the hosted website at:
+
 
 TECHNOLOGY USED
 HTML, CSS, js, APIs, json
