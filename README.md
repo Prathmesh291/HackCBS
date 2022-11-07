@@ -21,6 +21,6 @@ TECHNOLOGY USED
 HTML, CSS, js, APIs, json
 
 TEAM MEMBER DETAILS(TEAM NAME:Hackgawds):
-Parth Shah, Nirma University Ahmedabad
-Prathmesh Borse, Nirma University
-Rohan Desai, Nirma University
+Prathmesh Borse
+Parth Shah
+Rohan Desai
