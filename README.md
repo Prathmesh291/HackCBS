@@ -15,7 +15,7 @@ STEPS FOR START
 -Congratulations you are all set
 
 Otherwise you can directly look at the hosted website at:
-
+https://hackyourhealth.study/
 
 TECHNOLOGY USED
 HTML, CSS, js, APIs, json
